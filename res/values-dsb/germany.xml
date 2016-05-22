@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wenig martian</string>
+    <string name="texto_boton_comienzo">Betreten</string>
+    <string name="mensaje_bienvenida">Willikommen</string>
+</resources>
